@@ -4,6 +4,8 @@ library(xlsx)
 
 setwd("C:\\Users\\User\\Desktop\\outliers")
 
+
+
 #list_names <- list.files("C:\\Users\\User\\Desktop\\outliers")
 
 if(exists("list_names") == FALSE){
